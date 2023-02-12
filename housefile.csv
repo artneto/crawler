@@ -1,21 +1,450 @@
 Title,Price,Room
-" Forymoyle East, Barna, Galway, H91KTC9 "," €2,300 / month ", 4 beds 
-" Belfry Downs, Citywest,   Dublin 24"," €2,100 / month ", 2 beds 
+" 5 Tur Ronain, Clybaun Road, Knocknacarra,   Galway City, H91 AF43"," €1,700 / month ", 2 beds 
+" Apartment 25, Longford House, Spencer Dock, Dublin 1, North Wall,   Dublin 1"," €3,000 / month ", 2 beds 
+" 654 South Circular Road HYDE SQUARE, Kilmainham,   Dublin 8"," €2,600 / month ", 2 beds 
+" Block 5, 208 Parklands, Northwood, Santry, Santry,   Dublin 9"," €1,900 / month ", 1 bed 
+" 31 Temple Square, Temple Rd,, Rathgar,   Dublin 6, D06 WR97"," €3,500 / month ", 3 beds 
+" Somerton, Lucan,   Dublin County"," €2,500 / month ", 2 beds 
+" Rosemay Square, Roscrea, Tipperary", €210 / week , 2 beds 
+" 17 The Avenue, Dunboyne Castle, Dunboyne, Meath, Dunboyne, Meath", €760 / month , 1 bed 
+" Corragloon, Virginia, Cavan"," €1,400 / month ", 4 beds 
+" 5 Grange park road , Raheny,   Dublin 5", €850 / month , 1 bed 
+" Rush, Rush, Dublin, K56XD42"," €3,200 / month ", 4 beds 
+" Alderwood, Carrickmacross, Monaghan"," €1,400 / month ", 4 beds 
+" 11 raglan hall clyde road, Ballsbridge,   Dublin 4, D04 WP95"," €3,150 / month ", 2 beds 
+" Elmfield Court, Clondalkin,   Dublin 22"," €3,000 / month ", 4 beds 
+" Apartment 9, House 11, Linden Square, Blackrock, Co. Dublin, Blackrock,   Dublin County"," €3,000 / month ", 2 beds 
+" 16 Wood Dale View, Ballycullen,   Dublin 24"," €3,600 / month ", 4 beds 
+" Foramoyle, Barna, Galway, H91 XDF2", €950 / month , 4 beds 
+" 96 Forster court, City Centre,   Galway City, H91F98F"," €2,600 / month ", 4 beds 
+" 48 Lakeview, Fair Green, Cavan, Cavan"," €1,250 / month ", 3 beds 
+" Grand Canal View, Kilmainham,   Dublin 8"," €1,887 / month ", 2 beds 
+" Ballinascorney, Brittas, Dublin, D24 W102"," €1,950 / month ", 2 beds 
+" 18 Leganara View, Kentstown, Meath, C15D9W2"," €1,727 / month ", 4 beds 
+" 17 Charleville Ave, North Strand,   Dublin 3"," €3,300 / month ", 4 beds 
+" Watermill court raheny , Raheny,   Dublin 5"," €1,800 / month ", 1 bed 
+" APARTMENT 105, CONCORDIA, SEABOURNE VIEW, CHARLESLAND, Greystones, Wicklow"," €2,400 / month ", 2 beds 
+" 11 the hall laurel place, Terenure,   Dublin 6W, D6W ER27"," €2,275 / month ", 2 beds 
+" apartment 8 malin hall waterville terrace, Blanchardstown,   Dublin 15"," €1,950 / month ", 2 beds 
+" 101 ros caoin ros cam, Roscam,   Galway City"," €2,500 / month ", 4 beds 
+" 4 Coolshannagh Close, Monaghan Town, Monaghan"," €1,800 / month ", 4 beds 
+" Derryvarogue Donadea Co Kildare , Donadea, Kildare"," €2,600 / month ", 4 beds 
+" silverlawns, Navan, Meath"," €2,300 / month ", 3 beds 
+" 16 Glenbourne Crescent, Leopardstown Valley, Leopardstown,   Dublin 18"," €1,200 / month ", 1 bed 
+" 3 The Clovers, Beechpark Avenue, Castleknock, Dublin 15, Castleknock,   Dublin 15"," €3,000 / month ", 2 beds 
+" 9 Meadow Court, The Beeches, Boherbue, Co Cork, Boherbue, Cork"," €1,250 / month ", 4 beds 
+" 71 evergreen street, City Centre Sth, Cork, T12 V5N3"," €2,000 / month ", 2 beds 
+" 93 Abbeyvale corbally limerick , Corbally,   Limerick City"," €2,000 / month ", 3 beds 
+" St Helens, Marine Parade, Sandycove,   South County Dublin", €900 / week , 2 beds 
+" 33 Holywell Lane, Swords, Dublin"," €2,200 / month ", 3 beds 
+" The Lodge Ardmulchan, Navan, Meath"," €1,990 / month ", 2 beds 
+" 151 Mill Quarter , Gorey, Wexford, Y25 H6V0"," €2,000 / month ", 3 beds 
+" Apt 32 The Hibernian South Lotts Road Dublin 4, Grand Canal Dk,   Dublin 4, D04AK84"," €2,600 / month ", 2 beds 
+" Beatty park celbridge co kildare, Celbridge, Kildare"," €1,000 / month ", 1 bed 
+" Bulfin road, Kilmainham,   Dublin 8, D08 HX82"," €3,000 / month ", 3 beds 
+" Tara court rd, Navan, Meath"," €2,500 / month ", 3 beds 
+" Hibernian Avenue, Dublin 3, North Strand,   Dublin 3"," €2,250 / month ", 2 beds 
+" 26 Priory Way, St Raphaels Manor, Celbridge, Kildare"," €2,300 / month ", 3 beds 
+" Ballycaskin, carrignavar village, cork T34WO29 , Carrignavar, Cork, T34WO29 "," €1,450 / month ", 4 beds 
+" 32 benmadigan road drimnagh Dublin 12, Drimnagh,   Dublin 12"," €1,300 / week ", 1 bed 
+" 34 Warren Street, Portobello,   Dublin 8"," €2,280 / month ", 2 beds 
+" 33 hamton wood, Finglas,   Dublin 11, D11X765"," €2,000 / month ", 2 beds 
+" 27 Hunters Avenue, Firhouse, Dublin 24 , Ballycullen,   Dublin 24"," €2,000 / month ", 2 beds 
 " Apt 20 the fairgree, City Centre,   Galway City, H91 V093"," €1,350 / month ", 2 beds 
-" BENMADIGAN ROAD, Dublin 12, Dublin"," €13,000 / month ", 1 bed 
+" 11 Tudor Close,  Knocknacarra , Knocknacarra,   Galway City"," €2,600 / month ", 3 beds 
+" 2 Beech Crescent, Royal Canal, Mullingar, Mullingar, Westmeath, N91K7K8"," €2,150 / month ", 4 beds 
+" Belfry Downs, Citywest,   Dublin 24"," €2,100 / month ", 2 beds 
+" 3 Broadwater, Naas, Kildare"," €2,300 / month ", 3 beds 
+" Melvin Road, Terenure, Dublin 6"," €2,700 / month ", 2 beds 
+" Cedar Square, Carysfort, Blackrock, Dublin South County, Dublin"," €3,200 / month ", 3 beds 
+" Newcastle Manor, Newcastle, Co. Dublin", €800 / month , 1 bed 
+" Rear 21 Ranelagh Road, Ranelagh, Dublin 6"," €1,900 / month ", 1 bed 
+" The Woodlands, Celbridge, Co. Kildare"," €1,950 / month ", 3 beds 
+" Brookdale, Carrigadrohid, Cork"," €1,500 / month ", 4 beds 
+" Melville Square, Finglas, Dublin 11"," €2,000 / month ", 2 beds 
+" Abberley Square, Tallaght, Dublin 24"," €1,574.50 / month ", 1 bed 
+" Blessington , Blessington, Wicklow"," €1,400 / month ", 2 beds 
+" Garden Apt, dublin 4"," €1,950 / month ", 2 beds 
+" Mitchel House, Appian Way, Ranelagh, Dublin 6"," €1,800 / month ", 1 bed 
+" 2 Ardan Diarmada, Castledermot, Kildare"," €1,139 / month ", 3 beds 
+" Kilmore Ave, Killiney, Dublin"," €4,095 / month ", 2 beds 
+" 15 Woodbrook Park, Carpenterstown, Dublin 15, County Dublin"," €2,126 / month ", 3 beds 
+"  Radcliff Hall St. John's Road, Sandymount, Dublin 4"," €5,000 / month ", 3 beds 
+" Dundela Haven, Sandycove, Dublin"," €2,500 / month ", 2 beds 
+" Anglesea Road, Ballsbridge, Dublin 4"," €3,101 / month ", 2 beds 
+" Richmond Row, Portobello, Dublin 8"," €2,800 / month ", 2 beds 
+" Captiva, Kilmuckridge, Wexford"," €9,950 / month ", 6 beds 
+" 6 Tivoli Terrace, Dun Laoghaire, Dublin"," €2,595 / month ", 2 beds 
+" Annaly Close, Ongar Lodge, Dublin 15, Dublin"," €1,195 / month ", 1 bed 
+" 12 Cypress Park, Templeogue, Dublin 6W"," €3,200 / month ", 4 beds 
+" Sea View Croagh Patrick, Westport, Mayo"," €1,595 / week ", 6 beds 
+" Meadowbank, Terenure, Dublin 6"," €2,600 / month ", 4 beds 
+" Tara View, Merrion Road, Dublin 4, Dublin", POA , 3 beds 
+" Tara View, Merrion Road, Dublin 4, Dublin", POA , 2 beds 
+" Tara View, Merrion Road, Dublin 4, Dublin",POA,Apartment 
+" The Court, Newtown Manor, Kill, Co. Kildare"," €1,800 / month ", 2 beds 
+" Kiltipper Gate, Tallaght", POA , 2 beds 
+" 10 Meadowfields, The Moyne, Enniscorthy, Co. Wexford", €950 / month , 2 beds 
+" Farmleigh Court, Farmleigh Woods, Castleknock, Dublin 15"," €4,000 / month ", 5 beds 
+" 119 Cuirt Seoige, Bohermore, Galway"," €2,215 / month ", 2 beds 
+" 6 Maryville Gardens, Courtown, Wexford"," €1,500 / month ",Apartment 
+" Knockieran Lower, Blessington, Wicklow"," €3,000 / month ", 5 beds 
+" McGoverns Corner, Cork Street, Dublin 8, Dublin"," €1,900 / month ", 1 bed 
+" Maghernakill, Castleblayney, Monaghan"," €1,200 / month ", 2 beds 
+" Stillorgan Gate, Kilmacud Road, Kilmacud, Dublin 14"," €2,800 / month ", 2 beds 
+" 37 The Barrington, Lansdowne Place, Ballsbridge, Dublin 4"," €3,918 / month ", 2 beds 
+" Saint John's Road, Sandymount, Dublin 4"," €9,000 / month ", 4 beds 
+" Dalkey Grove, Dalkey, Dublin"," €3,100 / month ", 3 beds 
+" 61 Bath Avenue, Sandymount, Dublin 4"," €6,500 / month ", 4 beds 
+" Mount Pleasant Terrace, Ranelagh, Dublin 6"," €3,000 / month ", 2 beds 
+" 11 The Barrington, Lansdowne Place, Ballsbridge, Dublin 4"," €6,000 / month ",Apartment 
+" New Cornelscourt, Cabinteely, Dublin 18"," €2,950 / month ", 4 beds 
+" The Loft House, Jameson's Courtyard, Kilmacanogue, Wicklow"," €5,500 / month ", 3 beds 
+" The Coach House, Jameson's Courtyard, Kilmacanogue, Wicklow"," €4,000 / month ", 3 beds 
+" Burlington Road, Ballsbridge, Dublin 4"," €6,500 / month ", 3 beds 
+" Eglington, Donnybrook Castle, Stillorgan Road, Dublin 4"," €3,000 / month ", 2 beds 
+" Coppins, Kilmore Avenue, Killiney, Dublin"," €9,950 / month ", 4 beds 
+" Park Drive, Ranelagh, Dublin 6"," €3,950 / month ", 4 beds 
+" Highfield Road, Rathgar, Dublin 6"," €12,300 / month ", 6 beds 
+" Palmerston Road, Dublin 6, "," €9,572 / month ", 4 beds 
+" Amberley, Glencullen, Dublin 18"," €5,500 / month ", 5 beds 
+" Orpen Close, Blackrock, Dublin"," €2,700 / month ", 2 beds 
+" Dalkey Sandycove Residence , Dalkey, Dublin"," €14,950 / month ", 5 beds 
+" Elegant Killarney Home, Killarney, Kerry"," €2,950 / month ", 5 beds 
+" Apt. 3, 191 Clonliffe Road, Drumcondra, Dublin 3"," €1,850 / month ", 1 bed 
+" Castleruby, Tulsk, Co. Roscommon",POA,343983.10000000003m 2
+" 18 Fairhaven Close, Castleknock, Dublin 15"," €3,250 / month ", 4 beds 
+" Woodfield Scholarstown Road, Rathfarnham, Dublin 16", POA , 3 beds 
+" 10 The Court, Larchill , Santry, Dublin 9"," €2,500 / month ", 2 beds 
 " Balrothery Estate, Tallaght, dublin 24", €700 / month , 1 bed 
 " 22 Palmerston Grove, Milltown,   Dublin 6"," €4,500 / month ",
-" Apt 2, Ruinn Colmcille, Dundalk, Co. Louth"," €1,250 / month ", 2 beds 
-" Apt 32 The Hibernian South Lotts Road Dublin 4, Grand Canal Dk,   Dublin 4, D04AK84"," €2,600 / month ", 2 beds 
 " Elmfield Court, Clondalkin, Dublin 22"," €1,612 / month ", 3 beds 
-" 44 ADAMSTOWN AVE, ADAMSTOWN, DUBLIN, Lucan, Dublin, K78R4T6"," €3,000 / month ", 3 beds 
-" Tara court rd, Navan, Meath"," €2,500 / month ", 3 beds 
-" 43 Boden Heath, Ballyboden,   Dublin 16"," €2,100 / month ", 2 beds 
-" 74 Watermint Court, Ashtown, Dublin 15"," €1,595 / month ", 1 bed 
-" Alen Hall, Tallaght,   Dublin 24"," €2,400 / month ", 2 beds 
-" 33 hamton wood, Finglas,   Dublin 11, D11X765"," €2,000 / month ", 2 beds 
-" Dundela Haven, Sandycove, Dublin"," €2,500 / month ", 2 beds 
-" Monamanagh, Grangeford, Carlow"," €1,400 / month ", 3 beds 
-" Airfield Manor, Donnybrook,   Dublin 4, D04K220 "," €2,850 / month ", 2 beds 
-" Bertram Court , Christchurch,   Dublin 8"," €2,400 / month ", 2 beds 
-" Somerton, Lucan,   Dublin County"," €2,500 / month ", 2 beds 
+" 2 Lansdowne Court, Shelbourne Road, Ballsbridge, Dublin 4"," €1,706 / month ", 1 bed 
+" Melrose, Moneygurney, Douglas, Co. Cork"," €2,670 / month ", 4 beds 
+" Bawnskeha, Thomastown, Kilkenny", POA ,none
+" 312 BLOCK 17A, Marina Village, Malahide, Co. Dublin"," €2,200 / month ", 1 bed 
+" 22 Morehampton Lane, Donnybrook, Dublin 4"," €4,500 / month ", 3 beds 
+" 33 Fishermans Wharf, Ringsend, Dublin 4"," €3,200 / month ", 3 beds 
+" 18 Pembroke Court, Pembroke Road, Ballsbridge, Dublin 4"," €1,836 / month ", 1 bed 
+" 18 South Great Georges Street, 158, Dublin",POA,157m 2
+" The Penthouse, Longboat Quay South, Dublin 2, Grand Canal Dk, Dublin 2"," €4,000 / month ", 3 beds 
+" Barran, Blacklion, Cavan", €950 / month , 4 beds 
+" Parkhill Lawn, Kilnamanagh, Dublin 24"," €2,091 / month ", 4 beds 
+" Peyton Square, Rathcoole, Co. Dublin"," €2,300 / month ", 3 beds 
+" Apt 7 St Stephens, Leeson Lane, Leeson Street, Dublin 2"," €3,500 / month ", 2 beds 
+" 2 Monte Vella, Barnhill Road, Dalkey, County Dublin"," €4,450 / month ", 2 beds 
+" The Corner House, St Fintans Road, Sutton,   Dublin 13"," €4,600 / month ", 4 beds 
+" The Island, Chapelizod, Dublin 20"," €2,320 / month ", 3 beds 
+" 124 Leeson Street Upper, Donnybrook, Dublin 4"," €7,000 / month ", 4 beds 
+" Lux Beach House barna galway, Barna, Galway"," €3,995 / month ", 4 beds 
+" Tivoli Terrace, Dun Laoghaire, Dublin"," €8,950 / month ", 6 beds 
+" 130 Leinster Road, Dublin 6"," €2,000 / month ", 1 bed 
+" Northumberland, Ballsbridge, Dublin 4", €735 / week , 1 bed 
+" Hatch Street, Leeson Street, Dublin 2", €695 / week , 1 bed 
+" CHURCH PLACE, Sallynoggin, County Dublin", €550 / week , 1 bath 
+" Church Place, Sallynoggin, Sallynoggin, County Dublin", €795 / week , 1 bed 
+" Pavillion, Dun Laoighre, Dun Laoghaire, Dublin"," €4,200 / month ", 2 beds 
+" Luxury Lodges, Carraroe, Galway"," €1,595 / week ",none
+" 8 Vernon Grove, Clontarf, Dublin 3"," €3,200 / month ", 3 beds 
+" 31 Maplewood Drive, Tallaght, Dublin 24"," €2,226 / month ", 3 beds 
+" APT 20 DUNLIN HOUSE, CLONTARF DUBLIN 3"," €2,700 / month ", 2 beds 
+" Mellowes Avenue, Finglas, D11, Finglas, Dublin 11"," €1,500 / month ", 2 beds 
+" Gainsborough Close, Malahide, Co Dublin , Malahide, Dublin"," €2,500 / month ", 4 beds 
+" Richmond Hall, Fairview, Dublin 3"," €2,050 / month ", 2 beds 
+" Clashwilliam, Gowran, Co. Kilkenny, Gowran, Kilkenny", POA ,
+" 30 The Drive, Harbour Heights, Passage West, Co. Cork"," €1,455 / month ", 3 beds 
+" 20 Nicholas Street, Douglas Street, Co. Cork"," €2,862 / month ", 4 beds 
+"  Dunamara, Strand Road, Killiney, County Dublin"," €14,000 / month ", 5 beds 
+" 96 Howth Road, Howth, County Dublin"," €6,000 / month ", 4 beds 
+" Glasscarrig, Ballygarrett, Gorey, Wexford"," €1,750 / month ", 5 beds 
+" Cappagh Road, Finglas, Dublin 11"," €2,250 / month ", 3 beds 
+" Station Grove, Clondalkin, Dublin 22"," €2,175 / month ", 3 beds 
+" Aras Na Cluaine, Clondalkin, Dublin 22"," €1,331 / month ", 2 beds 
+" Bertram Court, Christchurch, Dublin 8"," €2,000 / month ", 2 beds 
+" Monksfield, Clondalkin, Dublin 22"," €2,200 / month ", 3 beds 
+" Killarney Park Residence, Killarney, Kerry"," €2,950 / month ", 5 beds 
+" Srah Upper, Carracastle, Ballaghderreen, Co. Mayo"," €1,150 / month ", 4 beds 
+" Collegewood, Castleknock,   Dublin 15"," €3,000 / month ", 4 beds 
+" Dunsink Drive, Finglas, Dublin 11, Finglas, Dublin 11"," €2,300 / month ", 2 beds 
+" Kilgraigue, Kilcloon, Co. Kildare"," €2,500 / month ", 4 beds 
+" 2 Grafton, 31- 33 Merrion Road, Dublin 4, Dublin 4, Dublin"," €3,500 / month ", 2 beds 
+" 11 Saint Gall Gardens North, Milltown, Dundrum,   Dublin 14"," €2,300 / month ", 2 beds 
+" Lislarkin, Liscannor, Co. Clare"," €2,150 / month ", 3 beds 
+" Little Home, Summercove, Kinsale, Co. Cork"," €3,900 / month ", 4 beds 
+" Ballymakellett, Ravensdale, Dundalk, Louth"," €2,000 / month ", 4 beds 
+" Melville Rise, Finglas, Dublin 11"," €1,800 / month ", 2 beds 
+" Cottage No. 3 Rosnastraw Courtyard, Rosnastraw, Tinahely, Wicklow", €895 / month , 2 beds 
+" Donode, Ballymore Eustace, Kildare"," €2,000 / month ", 3 beds 
+" 9 Moatfield Park, Artane, Dublin 5, County Dublin"," €2,000 / month ", 3 beds 
+" 4 Hillcourt Road, Glenageary, County Dublin"," €4,000 / month ", 4 beds 
+" Rosebank, Clondalkin, Dublin 22"," €1,900 / month ", 2 beds 
+" 3 Congress Terrace, Drumshanbo, Co Leitrim N41 X394"," €1,200 ", 3 beds 
+" Apartment 3, 82 Meath Street, South City Centre - D8, Dublin 8"," €2,750 / month ", 2 beds 
+" Lyttle Home, Summercove, Kinsale, County Cork"," €3,900 / month ", 4 beds 
+" The Iona, Prospect Hill, Finglas, Dublin 11"," €1,900 / month ", 2 beds 
+" 1 Churchfield, Clontarf Road, Clontarf, Dublin 3"," €3,995 / month ", 3 beds 
+" 49a Vernon Avenue , Clontarf, Dublin 3"," €3,000 / month ", 2 beds 
+" 36 Parklands, Athenry, Co. Galway"," €1,800 / month ", 2 beds 
+" 2 Brookfield, Back Road, Malahide, Dublin"," €4,200 / month ", 5 beds 
+" St Peters Road, Walkinstown, Dublin 12", €900 / month , 1 bed 
+" Rathborne Court, Ashtown, Dublin 15"," €4,000 / month ", 4 beds 
+" Bessborough Avenue, North Wall, Dublin 1"," €2,192.96 / month ", 2 beds 
+" 30 Willbrook Park, Rathfarnahm, Dublin 14, Rathfarnham"," €2,900 / month ", 3 beds 
+" The Residences at Killeen Terrace, Malahide, Co. Dublin"," €2,450 / month ", 1 bed 
+" Glenfield Park, Clondalkin, Dublin 22"," €1,250 / month ", 1 bed 
+" 25 Inver Geal, Cortober, Carrick on Shannon, Co Roscommon N41 FX74"," €1,400 ", 5 beds 
+" 9 John's Quay, Kilkenny, Kilkenny"," €1,500 / month ", 3 beds 
+" Villa in Vale Do Lobo, Portugal, Limerick City, Co. Limerick"," €6,500 / week ", 5 beds 
+" Apartment 7, Marlborough Court, Marlborough Road, Dublin 7, Dublin"," €2,500 / month ", 2 beds 
+" 17 Raglan Road, Ballsbridge, Dublin 4"," €20,000 / month ", 5 beds 
+" Corrandulla, Galway City, Co. Galway"," €1,400 / month ", 4 beds 
+" The Avenue, Scholarstown Road, Rathfarnham, Dublin 16"," €3,200 / month ", 3 beds 
+" Tyrconnell Park, Inchicore, Dublin 8"," €2,500 / month ", 2 beds 
+" Barconey, Ballyjamesduff, Co. Cavan",POA,none
+" 63 Millbank Square, Sallins, Kildare"," €1,550 / month ", 2 beds 
+" 49B Vernon Avenue , Clontarf, Dublin 3"," €3,500 / month ", 3 beds 
+" 66 Marlton Demesne, Marlton Road, Wicklow Town, Co. Wicklow"," €2,950 / month ", 4 beds 
+" Collins Park, Dublin 9"," €2,750 / month ", 3 beds 
+" Oak Glade, Naas, Co. Kildare"," €2,200 / month ", 3 beds 
+" 127 Kincora Road, Clontarf, Dublin 3"," €3,500 / month ", 3 beds 
+" 108 Grianan Fidh, Aikens Village, Stepaside, Dublin 18"," €2,950 / month ", 3 beds 
+" Killeenmore, Portlick, Glasson, Athlone, Co. Westmeath"," €1,800 / month ", 4 beds 
+" 291 Mother Theresa House, Rathfarnham, Dublin 14, County Dublin"," €2,200 / month ", 2 beds 
+" Moorhill, Brannockstown, Co. Kildare", €600 / month , 1 bed 
+" Charlesland , Greystones, Wicklow"," €2,500 / month ", 3 beds 
+" Alley Haven, 75 Engine Alley, Dublin 8"," €1,538 / month ", 1 bed 
+" Charlesland , Greystones, Wicklow", POA , 3 beds 
+" Thomas Davis Street, Christchurch, Dublin 8"," €2,500 / month ", 2 beds 
+" Hillview Heights, Clane, Co. Kildare"," €2,400 / month ", 4 beds 
+" Casimir Court, Harolds Cross, Dublin 6W"," €2,500 / month ", 2 beds 
+" Apartment 1A York Street, Castleblayney, Castleblayney, Monaghan"," €1,200 / month ", 2 beds 
+" Ashbrook House, Ranelagh, Dublin 6"," €2,700 / month ", 2 beds 
+" Highgrove, Mount Talbot, Clondalkin, Dublin 22"," €2,500 / month ", 2 beds 
+" Ivy Exchange, Parnell Street, Dublin 1"," €2,192 / month ", 2 beds 
+" Malbrack, Dunmanway, Cork"," €1,200 / month ", 3 beds 
+" Ryder Cup Village The K Club Straffan Co. Kilda, Co. Kildare"," €2,795 / month ", 3 beds 
+" Villa to Rent in Quinta Do Lago, Portugal, Limerick City, Co. Limerick"," €5,000 / week ", 5 beds 
+" Rathgael, Clondalkin, Dublin 22"," €1,875 / month ", 2 beds 
+" Apartment 8, Amiens Square, Amiens Street, Dublin 1"," €1,850 / month ", 1 bed 
+" 4 Parkview, Robswall, Malahide, Co. Dublin"," €2,550 / month ", 2 beds 
+" Galtymore Road, Drimnagh, Dublin 12"," €3,000 / month ", 4 beds 
+" North Avenue, Stillorgan, Co. Dublin"," €2,600 / month ", 2 beds 
+" Villa to rent in Quinta Do Lago, Portugal, Limerick City, Co. Limerick"," €12,000 / week ", 6 beds 
+" City House, Newbridge, Co. Kildare"," €1,247 / month ", 2 beds 
+" Twin Ensuite Premium at Montrose,  Stillorgan Rd, Trimblestown, Dublin 4, Dublin", €233 / week , 1 bed 
+" Student Accommodation at The Loom, Cork St, The Liberties, Dublin 8, Dublin", €282 to €297 / week , 1 bed 
+" Student Accommodation at Montrose,  Stillorgan Rd, Trimblestown, Dublin 4, Dublin", €233 to €360 / week , 1 bed 
+" Student Accommodation at Beckett House, Gardiner St, Dublin 1, Dublin", €267 to €311 / week , 1 bed 
+" Student Accommodation at Binary Hub, Bonham Street, Dublin 8, Dublin", €272 to €306 / week , 1 bed 
+" Student Accommodation at 107 Dorset Street Upper, Dorset Street, Dublin 1", €229 to €311 / week , 1 bed 
+" Premier Square, Finglas Road, Finglas, Dublin 11"," €1,836 / month ", 2 beds 
+" 36 The Lansdowne Block, Pembroke Square, Grand Canal Street Upper, Dublin 4, Grand Canal Dk"," €2,700 / month ", 2 beds 
+" Cowper Downs, Cowper Road, Rathmines, Dublin 6"," €2,010 / month ", 2 beds 
+" 5 Crannagh Court, Rathfarnham, Dublin 14"," €1,900 / month ", 2 beds 
+" Alderwood Park, Tallaght, Dublin 24"," €2,500 / month ", 3 beds 
+" Kilgraigue, Maynooth, Co. Kildare"," €2,200 / month ", 4 beds 
+" Anna Villa, Ranelagh, South Dublin City, Ranelagh, Dublin 6"," €5,500 / month ", 4 beds 
+" Hollands Park, Athy, Co. Kildare"," €1,377 / month ", 3 beds 
+" North Great George's Street, Dublin 1, North City Centre, Dublin 1"," €3,700 / month ", 2 beds 
+" Annesley Gardens, Ranelagh, Ranelagh, Dublin 6"," €8,750 / month ", 4 beds 
+" Castlepark Road Dalkey, Co. Dublin, Dalkey, Co. Dublin, Dalkey, Dublin"," €5,850 / month ", 3 beds 
+" Hali, Cherrywood, Dublin 18, Dublin"," €2,550 / month ", 2 beds 
+" Penthouse The Pines, Herbert Park Lane, Ballsbridge, Ballsbridge, Dublin 4"," €5,000 / month ", 2 beds 
+" Inishmaan Road, Whitehall, Dublin 9, Dublin"," €4,000 / month ", 4 beds 
+" Hanover Quay, Grand Canal Dk, Dublin 2"," €3,000 / month ", 2 beds 
+" Seapoint Avenue, Dun Laoghaire, County Dublin"," €3,500 / month ", 2 beds 
+" 1 13 One Springfield Park, Foxrock, Dublin 18"," €3,100 / month ", 2 beds 
+" Maglin P31NH01, Ballincollig, Co. Cork"," €1,888 / month ", 4 beds 
+" 57 Herbert Lane, Dublin 2, Dublin"," €5,500 / month ", 4 beds 
+" Rathdangan, Rathdangan, Wicklow"," €1,750 / month ", 4 beds 
+" 73 St. Patricks Park, Stepaside, Dublin 18"," €3,250 / month ", 3 beds 
+" Maplewood Avenue, Tallaght, Dublin 24"," €2,500 / month ", 3 beds 
+" Eaton Terrace, Rathcoole, Co. Dublin"," €1,950 / month ", 2 beds 
+" The Lawn, Abbeylands, Clane, Co. Kildare"," €1,885 / month ", 2 beds 
+" Cruichrath, Kill, Co. Kildare"," €1,300 / month ", 2 beds 
+" Music Hall, Cows Lane, Temple Bar, Dublin 2"," €1,600 / month ", 1 bed 
+" Belfry Square, Citywest, Dublin 24"," €1,850 / month ", 2 beds 
+" John L O' Sullivan Park, Rosscarbery,   West Cork", €125 / week , 2 beds 
+" 44 Carrabeag, Newport Road, Castlebar, Co. Mayo"," €1,300 / month ", 3 beds 
+" The Elysian , Eglinton Road, Cork City, Cork"," €3,328 / month ", 3 beds 
+" Green Isle Court, Clondalkin, Dublin 22"," €1,950 / month ", 2 beds 
+" Clearwater, Coast Road, Malahide, Co. Dublin"," €2,916 / month ", 2 beds 
+" Malahide Road, Clontarf, Dublin 3"," €3,200 / month ", 3 beds 
+" Apartment 19 Eustace Court, Cualanor, Dun Laoghaire, County Dublin"," €2,650 / month ", 2 beds 
+" 18 Park View, Castleknock, Dublin 15, County Dublin"," €4,200 / month ", 5 beds 
+" Bru Eala, Baltyboys Lower, Blessington, Co. Wicklow",POA, 3 beds 
+" St Mealruan's Park, Oldbawn, Tallaght, Dublin 24"," €2,800 / month ", 3 beds 
+" Apartment 212 Longboat Quay South, Grand Canal Dk, Dublin 2"," €2,500 / month ", 1 bath 
+" Kildonan Road, Finglas, Dublin 11"," €2,300 / month ", 3 beds 
+" Kildonan Road, Finglas, Dublin 11"," €2,300 / month ", 3 beds 
+" The Sweepstakes, Merrion Road, Ballsbridge, Dublin 4"," €1,989 / month ", 2 beds 
+" Marietta Woods, Castle Park Road, CODUBLIN, Dalkey, Co. Dublin"," €2,750 / month ", 2 beds 
+" Scholarstown Wood, Rathfarham, Dublin 16, Dublin"," €2,985 / month ", 3 beds 
+" Dolphins Road, Drimnagh, Dublin 12"," €3,600 / month ", 3 beds 
+" Niche Living, Eblana Avenue, Dun Laogharie, CO.DUBLI, Dublin"," €1,880 / month ", 1 bed 
+" Marietta Woods, Castle Park Road, CODUBLIN, Dalkey, Co. Dublin"," €1,925 / month ", 1 bed 
+" Marietta Woods, Castle Park Road, CODUBLIN, Dalkey, Co. Dublin"," €2,175 / month ", 1 bed 
+" The Station, Sallins road, Kildare"," €1,775 / month ", 3 beds 
+" Green Isle, Clondalkin, Dublin 22"," €2,100 / month ", 2 beds 
+" 7 The Avenue, Robswall, Malahide, Co. Dublin"," €3,700 / month ", 4 beds 
+" Truskey West, Barna, Co. Galway"," €2,700 / month ", 5 beds 
+" 618 Harbour Point Business Park, Little Island, Co. Cork"," €13,000 / month ",90.5m 2
+" The Tramyard, Inchicore, Dublin 8"," €1,530 / month ", 1 bed 
+" Apartment 6, Cedarhurst Road, Phoenix Park Racecourse, Dublin 15, Castleknock, Dublin 15"," €2,100 / month ", 2 beds 
+" Elmfield Court, Clondalkin, Dublin 22"," €1,700 / month ", 2 beds 
+" Drumgullane East, Kinsalebeg, Co. Waterford"," €1,200 / month ", 3 beds 
+" No. 9 Hazelgrove, Spencer Street, Castlebar, Mayo"," €1,200 / month ", 4 beds 
+" 115 Custom House Harbour, IFSC, Dublin 1"," €2,500 / month ", 2 beds 
+" Knockrabo Court, Goatstown, Dublin 14"," €4,500 / month ", 4 beds 
+" Rockmarshall, Jenkinstown, Co. Louth"," €2,500 / month ", 5 beds 
+" 13 The Oaks, Rockfield, Dundrum, Dublin 16"," €2,500 / month ", 2 beds 
+" Two Bedroom Cottage, Chapel Street, Ballymore Eustace, Kildare"," €1,650 / month ", 2 beds 
+" 7 Adair, Sandymount Avenue, Dublin 4, Sandymount"," €2,900 / month ", 2 beds 
+" Belfry Hall, Citywest, Dublin"," €1,700 / month ", 2 beds 
+" Deerpark Way, Tallaght, Dublin 24"," €1,750 / month ", 2 beds 
+" Silken Park, Citywest, Dublin"," €2,095 / month ", 3 beds 
+" 69 Harbour View, Harbour Square, Crofton Road, Dun Laoghaire, Co. Dublin"," €2,650 / month ", 2 beds 
+" Killooley, Blueball, Tullamore, Co. Offaly",POA,
+" Elmville, Harolds Cross Road, Harold Cross, Dublin 6w, Dublin 6W, Dublin"," €2,125 / month ", 1 bed 
+" Quayside Quarter at Dublin Landings, Docklands, Dublin 1"," €3,320 to €5,030 / month ",
+" Griffith Wood, Griffith Avenue, Drumcondra, Dublin 9"," €2,140 to €3,600 / month ",
+" Opus, 6 Hanover Quay, Grand Canal Dk, Dublin 2"," €3,150 to €6,000 / month ", 2 beds 
+" Commercial Unit, Friar Street, Thurles, Co. Tipperary",POA, 1 bath 
+" Walkinstown Green, Walkinstown, Dublin"," €1,600 / month ", 1 bed 
+" 1 Mercer Lodge, Dublin 18, Carrickmines"," €2,650 / month ", 2 beds 
+" Crieve Mor Ave, Letterkenny, Donegal"," €1,700 / month ", 4 beds 
+" Apartment 74, The Cedars, Herbert Park Lane, Ballsbridge, Dublin 4"," €5,000 / month ", 2 beds 
+" Kenilworth Manor, Harold's Cross, Dublin 6W"," €1,632 / month ", 1 bed 
+" Block 1 & 2, Deansgrange Business Park, 26057, Dublin",POA,26057m 2
+" 1 Ballymany Park , Newbridge, Kildare"," €2,100 / month ", 3 beds 
+" 8 Saint Mary's Avenue, Rathfarnham, Dublin 14"," €2,600 / month ", 2 beds 
+" 71 Fairview Strand, Fairview, Dublin 3"," €1,400 / month ", 1 bed 
+" The Oaks, Herbert Park Lane, Anglesea Road, Ballsbridge, Dublin 4"," €2,200 / month ", 1 bed 
+" 43 Shanard Road, Santry, Dublin 9"," €22,000 / year ",59m 2
+" 3 The Orchard, Booterstown Avenue, Booterstown, County Dublin"," €2,800 / month ", 2 beds 
+" Kilcronan Avenue, Clondalkin, Dublin 22"," €2,400 / month ", 3 beds 
+" Blanchville, Dunbell, Kilkenny, Kilkenny",POA,none
+" The Ash, Parkview, Stepaside, Dublin 18"," €2,600 / month ", 2 beds 
+" Brownsford, Inistioge, Kilkenny"," €1,650 / month ", 3 beds 
+" 5A Sandyford Business Centre, Blackthorn Road, 382.73, Dublin 18, Dublin",POA,382.73m 2
+" Teach An Droichid, 43 Pembroke Lane, Ballsbridge, Dublin 4"," €15,000 / month ", 4 beds 
+" Radharc An Chaolaire, Furbo, Galway"," €4,600 / month ", 4 beds 
+" Seskin View Road, Tallaght, Dublin 24"," €2,200 / month ", 3 beds 
+" Bertram Court, Dublin 8, Dublin"," €1,800 / month ", 1 bed 
+" Kilcare Drive, Tallaght, Dublin 24"," €2,100 / month ", 2 beds 
+" Armagh Road, Crumlin, Dublin 12"," €1,750 / month ", 2 beds 
+" 3 Bellvue Villas, Tivoli, Co. Cork"," €1,500 / month ", 1 bed 
+" The Maples, Dunstuffnage Hall, Stillorgan, Dublin"," €1,696 / month ", 1 bed 
+" Castle Walk, CO.DUB, Cherrywood, Dublin"," €3,050 / month ", 3 beds 
+" The Orchard, Lucan, Dublin"," €2,400 / month ", 3 beds 
+" Lambs Head, Caherdaniel, Co. Kerry"," €3,150 / month ",
+" 18 Newpark Close, Chapel Lane, Kinsealy, County Dublin"," €3,500 / month ", 4 beds 
+" 7 Arran Quay, Dublin 7, Dublin", POA ,236m 2
+" 304 O'Connell Court, Waterford, Waterford City, Waterford"," €1,400 / month ", 2 beds 
+" Elmville, Harolds Cross Road, Harold Cross, Dublin 6W, Dublin"," €2,450 / month ", 1 bed 
+" Elmville, Harolds Cross Road, Harold Cross, Dublin 6W, Dublin"," €2,900 / month ", 2 beds 
+" Elmville, Harolds Cross Road, Harold Cross, Dublin 6W, Dublin"," €2,925 / month ", 2 beds 
+" Castlebridge, Maynooth, Kildare"," €3,500 / month ", 4 beds 
+" Belfry Avenue, Citywest, Dublin 24"," €2,700 / month ", 2 beds 
+" The Granary, Distillery Lofts, Drumcondra, Dublin 3"," €3,000 / month ", 2 beds 
+" Cedarbrook Avenue, Cherry Orchard, Dublin 10"," €1,671 / month ", 2 beds 
+" Ellensborough Avenue, Kiltipper, Dublin", €550 / month , 1 bed 
+" The Granary, Distillery Loft, Drumcondra, Dublin 3"," €5,000 / month ", 3 beds 
+" 19 St Pancras House, Terenure, Dublin 6W"," €4,500 / month ", 3 beds 
+" Spencer Place, Dublin 1, Dublin"," €2,400 / month ", 1 bed 
+" Spencer Place, Dublin 1, Dublin"," €3,000 / month ", 2 beds 
+" 4 Harbour Court, Baltimore, West Cork"," €750 to €1,250 / week ", 3 beds 
+" The Orchard, Lucan, County Dublin"," €2,400 / month ", 3 baths 
+" Belfry Manor, Citywest, Dublin"," €1,900 / month ", 2 beds 
+" Shackleton Glebe, Shackleton Park, Lucan, Co.Dublin, Co. Dublin"," €1,875 / month ", 1 bed 
+" Shackleton Glebe, Shackleton Park, Lucan, Co.Dublin, Co. Dublin"," €2,250 / month ", 2 beds 
+" Hamilton Gardens, Stokes House, Carnlough Road, Cabra, Dublin 7"," €1,925 / month ", 1 bed 
+" 11 Bank Hall, Arklow, Wicklow"," €1,800 / month ", 3 beds 
+" Portlaoise Mart, Meelick, Co. Laois"," €4,167 ",Industrial Units 
+" Virginia Hall, Tallaght, Dublin 24"," €1,950 / month ", 2 beds 
+" 8 Ring of Kerry Cottages, Killorglin, Kerry"," €1,300 / month ", 3 beds 
+" Commercial Unit @ 87 North Strand Rd, Corner of North Strand Rd & Poplar Row, North Strand, Dublin 3"," €30,000 / year ",94m 2
+" 6 Ashdown, Circular Road, Galway"," €3,950 / month ", 4 beds 
+" Old Court Lodge, Ballycullen, Dublin 24"," €1,585 / month ", 2 beds 
+" 8 Westgate Business Park, Kilrush Road, Ennis, Co. Clare"," €1,000 ", 6 beds 
+" 1 Bridge Street, Milltown, Kerry"," €1,100 / month ", 4 beds 
+" Lower Grangegorman Road , Smithfield, Dublin 7", €258 / week , 1 bed 
+" Castle Walk, CO.DUB, Cherrywood, Dublin"," €3,200 / month ", 3 beds 
+" Castle Walk, CO.DUB, Cherrywood, Dublin"," €3,675 / month ", 4 beds 
+" 6 The Cloisters, Kilkee, Clare"," €1,600 / month ",
+" Carrig Court, Citywest, County Dublin"," €1,900 / month ", 2 beds 
+" Park Glen, Grangerath, Drogheda, Meath"," €1,428 / month ", 2 beds 
+" Capital Dock Residence, Grand Canal, Grand Canal Dock, Dublin 2, South Dublin City, Dublin 2, Dublin"," €3,369 / month ", 2 beds 
+" Aughagower, Westport, Mayo"," €1,600 / month ", 5 beds 
+" Rice Park, Waterford",POA, 1 bed 
+" 3 Bedroom Apartments, Griffith Wood, Griffith Avenue, Drumcondra, Dublin 9"," €3,600 / month ", 3 beds 
+" Walled Garden, Wyckham Way, Dublin 14, Dundrum"," €2,150 / month ", 1 bed 
+" 2 Balally Road , Dundrum, Dublin 16"," €4,200 / month ", 3 beds 
+" Quayside Quarter @ Dublin Landings, Docklands, Dublin 1"," €3,320 / month ", 2 beds 
+" Opus at 6 Hanover Quay, Grand Canal Dk, Dublin 2"," €6,000 / month ", 3 beds 
+" Opus at 6 Hanover Quay, Grand Canal Dk, Dublin 2"," €4,000 / month ", 2 beds 
+" Opus at 6 Hanover Quay, Grand Canal Dk, Dublin 2"," €4,200 / month ", 3 beds 
+" Opus at 6 Hanover Quay, Grand Canal Dk, Dublin 2"," €3,150 / month ", 2 beds 
+" Rathcoole Park, Rathcoole, County Dublin"," €2,500 / month ", 4 beds 
+" Kellys Corner, Lifford Road, Ennis, Co. Clare",POA,130.1m 2
+" Hot Stone Pizzeria, Off Main Street, Skibbereen,   West Cork", €300 / week ,none
+" 17 Ballymany Park, Newbridge, Kildare"," €2,325 / month ", 3 beds 
+" Bellsgrove, Ballyheelan, Kilnaleck, Co. Cavan"," €4,000 / month ", 1 bath 
+" Ailesbury Oaks, Ailesbury Road, Dublin 4, Dublin"," €5,000 / month ", 4 beds 
+" 30 Princes Street, Cork City, Cork"," €40,000 / year ",160m 2
+" Murrisk, Westport, Mayo"," €1,900 / month ",House 
+" Killyfad (Lands), Cullyfad, LD11495, Co. Longford", €167 / month ,
+" Rosslare Port Lorry Parking, Kilrnae Business Park, Rosslare Harbour, Rosslare, Wexford", POA ,none
+" 53/54 Tullow Street, Carlow Town, Carlow",POA,1000m 2
+" Hamilton Gardens, The Parsons Building, Carnlough Road, Cabra, Dublin 7"," €2,450 / month ", 2 beds 
+" Gusserane, New Ross, Wexford",POA, 4 beds 
+" Opus at 6 Hanover Quay, Grand Canal Dk, Dublin 2"," €3,572 / month ", 2 beds 
+" Fair Green, Borrisokane, Tipperary", POA ,
+" Link Road, Smithstown , Shannon, Clare"," €7,000 / year ",934m 2
+" Killimor Village, Ballinasloe, Galway", €450 / month ,21m 2
+" Killimor Village, Ballinasloe, Galway",POA, 4 beds 
+" Woodford Court, Clondalkin, Dublin 22"," €1,100 / month ", 1 bed 
+" St. Clare's Park, Dublin 6W, Harold's Cross"," €2,422 / month ", 2 beds 
+" Hamilton Gardens, Stokes House, Carnlough Road, Cabra, Dublin 7"," €2,175 / month ", 1 bed 
+" Hamilton Gardens, Stokes House, Carnlough Road, Cabra, Dublin 7"," €3,700 / month ", 3 beds 
+" 19 Michael Street, Waterford City, Waterford"," €16,000 / year ", 1 bath 
+" Elmfield by havitat, Ballyogan Road, Dublin 18, Leopardstown"," €2,233 / month ", 2 beds 
+" Elmfield by havitat, Ballyogan Road, Dublin 18, Leopardstown"," €2,051 / month ", 1 bed 
+" St. Clare's Park, Dublin 6W, Harold's Cross"," €2,149 / month ", 1 bed 
+" The Elysian, Eglinton Road, Co. Cork, Cork City, Cork"," €3,328 / month ", 3 beds 
+" Quayside Quarter at Dublin Landings, Docklands, Dublin 1"," €4,980 / month ", 3 beds 
+" Abbey St., Cahir, Tipperary", €750 / month ,none
+" Derryfadda, Ballyforan, Ballinasloe, Co. Galway"," €1,000 / month ", 3 beds 
+" Maple Drive, Oldtown Demesne, Naas, Kildare"," €2,244 / month ", 4 beds 
+" Henry Street, Kilrush, Co. Clare"," €1,250 ", 1 bath 
+" Heynestown, Dundalk, Co. Louth"," €1,350 / month ", 4 beds 
+" 42 The Terrace , Malahide, County Dublin"," €2,719 / month ", 3 beds 
+" 12 Fountain View, Baileborough, Bailieborough, Co. Cavan", €750 / month , 2 beds 
+" Windsor Road, Dublin 6"," €7,000 / month ", 4 beds 
+" 38 Beechwood Heath, Clonee, Dublin 15"," €2,375 / month ", 3 beds 
+" Aylmer Road, Newcastle, Dublin", €900 / month , 1 bed 
+" 18 Yorke Street, Dundalk, Louth"," €1,230 / month ", 2 beds 
+" Ballymun Road, Ballymun, Dublin 11", €225 / week , 7 beds 
+" Sean McDermott Street Apartments, Sean McDermott Street Lower, Dublin",POA,
+" Crinstown Maynooth, Co. Kildare"," €1,500 / month ", 1 bed 
+" Cruckakeehan, Annagry, Donegal", POA ,none
+" 85 Nutley Lane, Donnybrook, Dublin 4"," €10,000 / month ", 5 beds 
+" Unit 3, The Mill Yard, Sixmilebridge, Clare",POA, 1 bath 
+" Unit 31, North Main Street, Naas, Kildare"," €23,000 / year ",66m 2
+" Clarion Village, Clarion Road, Ballytivnan, Sligo City, Sligo", €210 / week , 2 beds 
+" Clarion Village, Clarion Road, Ballytivnan, Sligo City, Sligo", €275 / week , 3 beds 
+" Main Street, Rathangan, Kildare",POA,none
+" 10 A Beechgrove Terrace, Drogheda, Louth"," €15,000 / year ",77m 2
+" For Lease Derryluskin, Fethard, Tipperary"," €12,000 / year ",344m 2
+" Ground Floor Market Plaza Magdalene Street, Drogheda, Louth"," €20,000 / year ",161m 2
+" Third Floor, Market Plaza Magdalene Street, Drogheda, Louth"," €16,000 / year ",143m 2
+" 3 Bayview Heights, Ballybane, Galway City, Galway"," €1,200 / month ", 3 beds 
+" Chester House, Fairgreen, Drogheda, Louth"," €14,000 / year ",none
+" 18 Temple court Hogan place Dublin , Dublin 2, Dublin"," €1,500 / month ", 1 bed 
+" Carysfort Park, Co. Dublin"," €3,100 / month ", 3 beds 
+" Laurence Street, Drogheda, Louth", POA ,none
+" Shrewsbury Square, Dublin 4"," €5,000 / month ", 3 beds 
+" Unit 12 & 13, Greenhills Industrial Village, Greenhills, Drogheda, Louth",POA,none
+" Apartment 1, 77 Main Street, Carrickmacross, Monaghan", €750 / month , 1 bed 
+" 14a Westbury Woods, managed , Enniscorthy, Wexford"," €1,100 / month ", 2 beds 
+" Bank Building Dowra, Dowra, Co. Leitrim", POA ,Detached 
